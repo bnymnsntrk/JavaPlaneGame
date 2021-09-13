@@ -1,2 +1,2 @@
 # JavaPlaneGame
-This is the first project i have done with JavaGui. That's just a simple game, i upload it for CSE Juniors.
+This is the first project I have done with JavaGui. It's just a simple game, I uploaded it for CSE Juniors.
